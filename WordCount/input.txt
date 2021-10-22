@@ -1,0 +1,1 @@
+Hello Hello welcome to the hadoop word count program using mapper and reducer
