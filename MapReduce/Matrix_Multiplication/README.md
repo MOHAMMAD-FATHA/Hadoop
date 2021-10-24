@@ -1,3 +1,6 @@
+Hadoop Version 3.3.1
+Python Version 3.9.5
+
 Create a directory to save all the files related to word length program.
 
 mkdir Matrix
